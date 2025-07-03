@@ -1,27 +1,67 @@
-# AngularSickskill
+# SickSkill — A 30-Day Angular Skill Mastery Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
+> A hands-on 30-day Angular challenge to master RxJS, architecture, testing, and advanced tools — built as a scalable Skill Tracker Dashboard. Designed for future integration with [Jobang](https://github.com/your-jobang-link), a career platform for freshers.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 📌 Project Goals
 
-## Code scaffolding
+- Sharpen Angular skills in a structured, daily format
+- Build a real project while learning (not toy apps)
+- Apply best practices: modular architecture, RxJS, Jasmine testing, Angular CDK, CLI, performance optimization, and more
+- Showcase work publicly on GitHub and LinkedIn
+- Eventually evolve into a feature module of **Jobang** (e.g., Admin Panel, Skill Tracker, CMS)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 🗂️ Folder Structure (In Progress)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+src/app/
+├── core/ # Services, guards, interceptors
+├── shared/ # Reusable components, pipes, directives
+├── features/ # Feature modules (skill tracker, admin, etc.)
+├── rxjs-demos/ # Hands-on RxJS experiments (Week 1)
+└── app.module.ts
 
-## Running unit tests
+yaml
+Copy
+Edit
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
+## 📆 4-Week Angular Plan Overview
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+| Week | Focus Area |
+|------|------------|
+| ✅ Week 1 | RxJS Mastery (Observables, Subjects, operators) |
+| 🧩 Week 2 | Angular Architecture (Modules, Lazy Loading, Guards) |
+| 🔬 Week 3 | Testing with Jasmine |
+| 🚀 Week 4 | Pro Tools (Animations, CDK, CLI, Performance) |
 
-## Further help
+[📘 Full 30-Day Curriculum →](#)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+## ✅ Progress Tracker
+
+| Day | Topic | Status | Demo |
+|-----|-------|--------|------|
+| Day 1 | Observables vs Promises, Cold vs Hot | ✅ Completed | [View Demo](./src/app/rxjs-demos/day1-observable-vs-promise) |
+| Day 2 | map, filter, tap, take, switchMap | ⏳ Upcoming | |
+| Day 3 | Subject vs BehaviorSubject | ⏳ Upcoming | |
+| ... | ... | ... | |
+
+> 📝 Each day includes:
+> - Angular demo implementation
+> - GitHub commit
+> - LinkedIn post with learnings + screenshots
+
+---
+
+## 💡 How to Run Locally
+
+```bash
+git clone https://github.com/your-username/skillforge-angular.git
+cd skillforge-angular
+npm install
+ng serve
