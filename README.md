@@ -1,6 +1,6 @@
 # SickSkill — A Skill Mastery Project
 
-> A hands-on 30-day Angular challenge to master RxJS, architecture, testing, and advanced tools — built as a scalable Skill Tracker Dashboard. Designed for future integration with [Jobang](https://github.com/itshimanshu010/jobang), a career platform for freshers.
+> A hands-on 30-day Angular challenge to master RxJS, architecture, testing, and advanced tools — built as a scalable Skill Tracker Dashboard. Designed for future integration with [Jobang](https://jobang.onrender.com/), a career platform for freshers.
 
 ---
 
