@@ -38,18 +38,9 @@ Edit
 | 🔬 Week 3 | Testing with Jasmine |
 | 🚀 Week 4 | Pro Tools (Animations, CDK, CLI, Performance) |
 
-[📘 Full 30-Day Curriculum →](#)
 
 ---
 
-## ✅ Progress Tracker
-
-| Day | Topic | Status | Demo |
-|-----|-------|--------|------|
-| Day 1 | Observables vs Promises, Cold vs Hot | ✅ Completed | [View Demo](./src/app/rxjs-demos/day1-observable-vs-promise) |
-| Day 2 | map, filter, tap, take, switchMap | ⏳ Upcoming | |
-| Day 3 | Subject vs BehaviorSubject | ⏳ Upcoming | |
-| ... | ... | ... | |
 
 > 📝 Each day includes:
 > - Angular demo implementation
