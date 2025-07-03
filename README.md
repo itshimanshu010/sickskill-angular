@@ -14,21 +14,6 @@
 
 ---
 
-## 🗂️ Folder Structure (In Progress)
-
-src/app/
-├── core/ # Services, guards, interceptors
-├── shared/ # Reusable components, pipes, directives
-├── features/ # Feature modules (skill tracker, admin, etc.)
-├── rxjs-demos/ # Hands-on RxJS experiments (Week 1)
-└── app.module.ts
-
-yaml
-Copy
-Edit
-
----
-
 ## 📆 4-Week Angular Plan Overview
 
 | Week | Focus Area |
