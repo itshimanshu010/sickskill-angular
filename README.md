@@ -52,7 +52,7 @@ Edit
 ## 💡 How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/skillforge-angular.git
-cd skillforge-angular
+git clone https://github.com/itshimanshu010/sickskill-angular.git
+cd sickskill-angular
 npm install
 ng serve
